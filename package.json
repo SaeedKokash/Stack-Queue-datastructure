@@ -1,0 +1,23 @@
+{
+  "name": "stack-queue-datastructure",
+  "version": "1.0.0",
+  "description": "data structure practice on stack and queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaeedKokash/stack-queue-datastructure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaeedKokash/stack-queue-datastructure/issues"
+  },
+  "homepage": "https://github.com/SaeedKokash/stack-queue-datastructure#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
